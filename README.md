@@ -1,5 +1,5 @@
 ### Hi there 👋🏿
-I'm Micheal Naita Front-end Web Engineer with experience building websites and web applications. I specialize in JavaScript, HTML and CSS and have professional experience working with React.js and Node.js. I also have experience working with Firebase, Mysql, Mongodb...
+I'm Micheal Naita Software Engineer with experience building websites and web applications. I specialize in JavaScript, HTML and CSS and have professional experience working with React.js and Node.js. I also have experience working with Firebase, Mysql, Mongodb, Redis, Docker...
 
 ### 🛠 Projects 
 Here are some of the projects i have worked on over the years
@@ -14,7 +14,7 @@ Here are some of the projects i have worked on over the years
  
 ### ⚡ Fun fact:
 - love coding with slow lo-fi music 🎵
-- prefer dark theme  every thing
+- prefer dark theme every thing
  
 <!--
 **michealnaita/michealnaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

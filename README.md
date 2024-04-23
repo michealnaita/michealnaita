@@ -1,12 +1,12 @@
 ### Hi there 👋🏿
-I'm Micheal Naita, a Software Engineer with experience building websites and web applications. I specialize in JavaScript, HTML, and CSS and have professional experience working with React.js and Node.js. I also have experience working with Firebase, Mysql, MongoDB, Redis, Docker, and Linux.
+I'm Micheal Naita, a Software Engineer with experience building websites and web applications. I specialize in JavaScript, and Typescript and have professional experience working with React.js Next.js, and Node.js. I also have experience working with Firebase, Mysql, MongoDB, Redis, Docker, and Linux.
 
 ### 🛠 Projects 
 Here are some of the projects i have worked on over the years
 - [Portfolio Website 💪🏾 ](https://michealnaita.netlify.app/) 
 - [Drawing App](https://micheal-whiteboard.netlify.app/)
 - [Apartment Discovery website](https://pixeline-apartments.netlify.app/search?area=kampala)
-- [entertainment service bill-sharing app concept](https://loscribe.vercel.app) 
+- [Bill-sharing app concept for subscriptions](https://loscribe.vercel.app) 
 - [Pixeline website](https://pixelinegroup.com/)
 ### 📫 How to reach me: 
  1. email: michealnaita@gmail.com

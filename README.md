@@ -6,7 +6,7 @@ Here are some of the projects i have worked on over the years
 - [Portfolio Website 💪🏾 ](https://michealnaita.netlify.app/) 
 - [Drawing App](https://micheal-whiteboard.netlify.app/)
 - [Apartment Discovery website](https://pixeline-apartments.netlify.app/search?area=kampala)
-- [Bill-sharing app concept for subscriptions](https://loscribe.vercel.app) 
+- [Bill-sharing app concept for subscriptions](https://loscribe.vercel.app/about) 
 - [Pixeline website](https://pixelinegroup.com/)
 ### 📫 How to reach me: 
  1. email: michealnaita@gmail.com
